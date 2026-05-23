@@ -1,4 +1,4 @@
-# Tiopacio Restobar: Mobile Inventory & Stock Tracker
+# Tiopacio Restobar: Mobile Inventory & POS System
 
 Complete Android Studio Java/XML inventory and operations tracker for a restobar running from 7:00 PM to 3:00 AM.
 
